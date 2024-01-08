@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ButtonComponent from "./ButtonComponent";
 import Modal from "react-modal";
-// import { auth } from "../config/firebase";
+// import { auth } from "../config/firebase"
 // import { createUserWithEmailAndPassword } from "firebase/auth";
 
 const modalStyle = {
