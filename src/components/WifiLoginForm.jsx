@@ -89,7 +89,7 @@ export default function WifiLoginForm(props) {
                     type="text"
                     value={props.parentData.name}
                     // placeholder={props.parentData.name}
-                    // disabled
+                    disabled
                   />
                 </div>
                 {/* <label for="Name">Name</label> */}
