@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29cdb490.css",
+    "main.js": "/static/js/main.b022247d.js",
+    "static/js/787.f798b5dc.chunk.js": "/static/js/787.f798b5dc.chunk.js",
+    "static/media/Wifi_lock.png": "/static/media/Wifi_lock.615c9539ea36c9ce2d28.png",
+    "static/media/wifi.svg": "/static/media/wifi.85bae13fafc255be53443fba90791935.svg",
+    "index.html": "/index.html",
+    "static/media/ok.svg": "/static/media/ok.92c4a5cbc808818c35d0343dfe448bc1.svg",
+    "main.29cdb490.css.map": "/static/css/main.29cdb490.css.map",
+    "main.b022247d.js.map": "/static/js/main.b022247d.js.map",
+    "787.f798b5dc.chunk.js.map": "/static/js/787.f798b5dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cdb490.css",
+    "static/js/main.b022247d.js"
+  ]
+}
